@@ -1,3 +1,3 @@
-# best-slider
+# Slider
 
-[Best slider] (https://ivantomsk.github.io/best-slider/)
+[Slider - pet-project] (https://ivantomsk.github.io/Slider/)
